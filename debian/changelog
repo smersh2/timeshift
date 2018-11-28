@@ -1,3 +1,59 @@
+timeshift (18.9.1.1) tessa; urgency=medium
+
+  [ Tony George ]
+  * Update issue templates
+  * Update issue templates
+
+  [ p-bo ]
+  * Update timeshift-cs.po
+
+  [ Tanarri ]
+  * Update timeshift-de.po
+
+  [ Tony George ]
+  * Update issue templates
+
+  [ Alan01 ]
+  * Update timeshift-da.po
+
+  [ Kirill Romanov ]
+  * Set notification desktop entry hint
+  * Set X-GNOME-UsesNotifications flag
+
+  [ Tony George ]
+  * Update issue templates
+
+  [ Butterfly ]
+  *  tr.po update v.18.9.1
+
+  [ NikoKrause ]
+  * update translation template & complete German translation
+
+  [ muzena ]
+  * Update timeshift-hr.po
+
+  [ cmulk ]
+  * Main: Update snapshot list after each snapshot is taken Fixes the issue of trying to take double snapshots when it should just be multiple tags on one snapshot
+
+  [ Nicholas K. Dionysopoulos ]
+  * Exclude /snap by default
+
+  [ cmulk ]
+  * Allow the accidentally nested snapshots to be deleted normally
+
+  [ Tony George ]
+  * Updated message
+  * Added more build targets
+  * Updated
+  * Exclude /snap folder contents instead of folder
+  * Fixes #336 - Wizard resets some settings even if you do not complete it
+  * #324 Re-calculate snapshot size after adding custom exclude pattern
+
+  [ Clement Lefebvre ]
+  * Build-dep on libxapp
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 28 Nov 2018 17:27:10 +0000
+
 timeshift (18.9.1) xenial; urgency=medium
 
   * Updated donation window message
