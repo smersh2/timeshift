@@ -104,11 +104,11 @@ public class DonationWindow : Gtk.Window {
 
 		msg = format_heading(_("Feature Requests")) + "   ";
 
-		add_label(msg);
+		//add_label(msg);
 		
 		msg = _("This application was created for my own use in my spare time. It's not practical for me to work for free, on every change that is requested. If you need new features or changes to the application, consider making a donation to sponsor the work. If you are a developer, consider contributing to the project by submitting code changes.");
 
-		add_label(msg);
+		//add_label(msg);
 
 		// close window ---------------------------------------------------------
 
